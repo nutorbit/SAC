@@ -4,5 +4,7 @@ This is a PyTorch implementation of [Soft Actor Critic](https://arxiv.org/abs/18
 
 # To-do list
 
-* [] Implement SAC Algorithm
-* [] Implement IMPALA Architecture
+Here's my checklist:
+
+    * [ ] Implement SAC Algorithm
+    * [ ] Implement IMPALA Architecture
