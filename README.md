@@ -16,7 +16,15 @@ $ python train.py
 $ python test.py PATH
 ```
 
-where `PATH` is a path to your model.
+Where `PATH` is the path to your model.
+
+**show the logs.**
+
+```shell script
+$ tensorboard --logdir LOG --port 6006
+```
+
+Where `LOG` is the path of your logs, And display on `localhost:6006/`
 
 # To-do list
 
