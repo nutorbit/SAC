@@ -8,3 +8,19 @@ Here's my checklist:
 
   * [x] Implement SAC Algorithm
   * [x] Implement IMPALA Architecture
+  
+ # Running the code
+ 
+**training a model.**
+
+```shell script
+$ python train.py
+```
+
+**testing a model.**
+
+```shell script
+$ python test.py PATH
+```
+
+where `PATH` is a path to your model.
