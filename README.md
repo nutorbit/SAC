@@ -1,4 +1,4 @@
-# sac
+# SAC
 
 This is a PyTorch implementation of [Soft Actor Critic](https://arxiv.org/abs/1801.01290), including [Impala Architecture](https://arxiv.org/abs/1802.01561).
   
