@@ -31,4 +31,5 @@ Where `LOG` is the path of your logs, And display on `localhost:6006/`
 Here's my checklist:
 
   * [x] Implement SAC Algorithm
+  * [x] Implement [Temperature](https://arxiv.org/abs/1812.05905) update
   * [x] Implement IMPALA Architecture
